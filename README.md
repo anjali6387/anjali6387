@@ -3,8 +3,8 @@
 
 
 ### Āyubōvan!
-                                      A N J A L I  G U P T A ✨
-                      Web Developer | Open Source Enthusiast | Explorer 
+                                                        A N J A L I  G U P T A ✨
+                                            Web Developer | Open Source Enthusiast | Explorer 
 
 
                       
