@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anjali Gupta</h1>
 <h3 align="center">A passionate full stack web developer.</h3>
+
+
 ### Āyubōvan!
                                       A N J A L I  G U P T A ✨
                       Web Developer | Open Source Enthusiast | Explorer 
+
+
+                      
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/LSDeBe2JAfoAAAAM/cat-coding.gif" > 
 
 - 🔭 I’m currently working on **An ecommerce website**
